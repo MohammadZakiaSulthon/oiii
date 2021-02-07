@@ -13,9 +13,9 @@
               <p class="nav-text"></p>
               <ul class="right chevron">
                 <li><a href="/">Home</a></li>
-                <li><a href="{{route('about')}}">About Us</a></li>             
-                <li><a href="contact.html">Contact</a></li>
+                <li><a href="{{route('about')}}">About Us</a></li>
+                <li><a href="/kuliner">Kuliner</a></li>
               </ul>
             </div>
-          </div>  
+          </div>
         </nav>
