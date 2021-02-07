@@ -17,4 +17,10 @@ Route::get('/', function () {
     return view('pages.home');
 });
 
-Route::get('/about','AboutController@index')->name('about');
+Route::get('/about', 'AboutController@index')->name('about');
+Route::get('/kuliner', function () {
+    $jsonString = file_get_contents(base_path('resources/banyumasan-data.json'));
+
+    $data = json_decode($jsonString, true);
+    return view('pages.kuliner')->with('foods', $data["banyumasan"]);
+});
