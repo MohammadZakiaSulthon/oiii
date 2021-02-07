@@ -1,0 +1,354 @@
+{
+    "banyumasan": [{
+        "id": 1,
+        "title": "Mendoan Banyumas",
+        "image": "1.jpg",
+        "address": "Eco 21 Toko, Jl. Mayjend Sutoyo No.21, Sawangan, Kedungwuluh, Purwokerto Barat, Banyumas, Central Java 53131",
+        "latlng": {
+            "lat": 109.7730447,
+            "lng": -7.3642833,
+        "content": "Mendoan adalah salah satu makanan yang sangat terkenal di daerah Banyumas. Sama seperti tempe pada umumnya, mendoan dibuat dengan cara dipotong tipis kemudian dilumuri dengan adonan tepung terigu beserta bumbunya. Setelah itu digoreng setengah matang. Mendoan ini biasa disajikan dengan sambal kecap. "
+        }
+    },{
+        "id": 2, 
+        "title": "Soto Sokaraja",
+        "image": "2.jpg",
+        "address": "Jl. Pramuka No.09, Dusun II, Sokaraja Kulon, Kec. Sokaraja, Kabupaten Banyumas, Jawa Tengah 53181",
+        "latlng": {
+            "lat": 110.9946674,
+            "lng": -7.6212421,
+        "content": "Soto Sokaraja ini merupakan makanan khas Banyumas yang terkenal dengan kenikmatannya.Kuliner ini hanya dapat Anda temui di daerah Sokaraja, Banyumas. Sebenarnya, soto sokaraja sama dengan soto pada umumnya, hanya saja yang membedakan soto ini menggunakan ketupat dan sambal kacang. Selain itu, soto ini menggunakan kerupuk canthir dari bahan ketela pohon yang memiliki rasa khas."
+        }
+    },{
+        "id": 3,
+        "title": "Klanting atau Lanting Bumbu",
+        "image": "3.jpg",
+        "address" : "Jl. Yos Sudarso, Sangkalputung, Selokerto, Kec. Sempor, Kabupaten Kebumen, Jawa Tengah 54421",
+        "latlng": {
+            "lat": 115.5750633,
+            "lng": -8.2280033,
+        "content": "Makanan khas Purwokerto ini disebut klanthing karena bentuknya mirip dengan anting. Makanan ini berbahan dasar singkong yang diparut dan diperas airnya, kemudian dicampur dengan bumbu, lalu digoreng sampai berubah warna. Rasanya enak dan gurih. Lanthing sangat cocok untuk dijadikan oleh - oleh. Selain karena harganya yang murah, makanan ini mudah dijumpai ditoko oleh - oleh di Banyumas."
+        }
+    },{
+        "id": 4,
+        "title": "Nopia",
+        "image": "4.jpg",
+        "address" : "Jl. Jaya Sirayu No.88, RT.03/RW.04, Lor, Pekunden, Kec. Banyumas, Kabupaten Banyumas, Jawa Tengah 53192",
+        "latlng": {
+            "lat": 108.0941936,
+            "lng": -6.8321212,
+        "content": "Nopia ini adalah salah satu makanan khas Banyumas yang memiliki rasa dan bentuk yang unik. Selain itu, cara pembuatannya juga cukup unik, yaitu dengan ditempelkan di tungku khusus dengan suhu yang panas. Ini yang menyebabkan ada bagian nopia yang hangus. Bahan utamanya adalah tepung terigu yang diisi gula jawa, kacang, ataupun coklat. "
+        }
+    },{
+        "id": 5,
+        "title": "Gethuk Goreng Sokaraja",
+        "image": "5.jpg",
+        "address" : "Jl. Raya Banjarnegara - Purwokerto, Dusun I Sokaraja Tengah, Sokaraja Tengah, Kec. Sokaraja, Kabupaten Banyumas, Jawa Tengah 53181", 
+        "latlng": {
+            "lat": 109.2639267,
+            "lng": -7.4677788,
+        "content": "Gethuk goreng ini berbeda dari gethuk pada umumnya karena memerlukan dua kali proses pembuatan. Yang pertama, yaitu dengan cara mengukus singkong sebagai bahan utamanya. Kemudian singkong yang sudah dikukus tadi dilumatkan bersama dengan gula jawa, setelah itu mencampurkannya dengan tepung terigu dan tepung beras, dan membentuknya menjadi kotak - kotak. Setelah itu, bahan digoreng hingga aromanya harum dan berubah warna. Gethuk ini memiliki rasa yang khas."
+        }
+    },{
+        "id": 6, 
+        "title" : "Jenang Jaket atau Wajik Klethik",
+        "image": "6.jpg",
+        "address" : "Jl. PKK No.600, Mersi, Kec. Purwokerto Tim., Kabupaten Banyumas, Jawa Tengah 53112",
+        "latlng": {
+            "lat": 109.7977271,
+            "lng": -7.2003799,
+        "content" : "Jenang jaket merupakan makanan wajib pada acara pernikahan. Daerah yang terkenal dengan jenang ini adalah daerah Mersi. Jika Anda berkunjung ke daerah ini, Anda bisa mencoba langsung jenang yang baru matang dan bisa langsung melihat proses pembuatannya. Jenang ini bertekstur kenyal dan manis gula jawa. "
+        }
+    },{
+        "id": 7, 
+        "title" : "Keripik Tempe",
+        "image": "7.jpg",
+        "address" : "Eco 21 Toko, Jl. Mayjend Sutoyo No.21, Sawangan, Kedungwuluh, Purwokerto Barat, Banyumas, Central Java 53131",
+        "latlng": {
+            "lat": 109.7730447,
+            "lng": -7.3642833,
+        "content" : "Makanan yang satu ini merupakan makanan khas yang sudah sangat terkenal. Terbuat dari bahan tempe kedelai yang diiris tipis dan dilumuri dengan tepung lalu digoreng hingga kering dan berwarna coklat. Rasa keripik ini sangat renyah dan gurih. Bukan hanya enak, keripik ini juga mengandung protein dan bertahan cukup lama meski tanpa diberi pengawet. "
+        }
+    },{
+        "id": 8, 
+        "title" : "Cimplung",
+        "image": "8.jpg",
+        "address" : "Dusun I, Tamansari, Karanglewas, Banyumas, Central Java 53161",
+        "latlng": {
+            "lat": 109.2091354,
+            "lng": -7.3947534,
+        "content" : "Makanan khas Banyumas ini berasal dari kata 'cimplung' yang berarti masuk ke dalam air. Air yang dimaksud disini adalah air nira dalam pembuatan gula merah. Proses pembuatannya adalah dengan merebus singkong atau degan (kelapa muda) ke dalam rebusan air nira kelapa atau dikenal dengan nama badeg. Cimplung ini memiliki rasa manis alami dari gula jawa. "
+        }
+    },{
+        "id": 9, 
+        "title" : "Kraca",
+        "image": "9.jpg",
+        "address" : "Purwanegara Desa, Jl. Bobosan, RT.06/RW.01, Karangjambu, Purwanegara, North Purwokerto, Banyumas, Central Java 53127",
+        "latlng": {
+            "lat": 109.9281094,
+            "lng": -7.5501296,
+        "content" : "Kraca merupakan kuliner khas Banyumas yang berbahan dasar keong kecil yang biasanya ditemukan di sawah dan diberi kuah. Rasanya gurih dan nikmat dengan campuran bumbu bawang,pala, merica, garam, serta bumbu lainnya. Untuk cara memakannya Anda dapat menyedot keong yang sudah dibuang penutupnya atau bisa juga dengan cara dicungkil dengan menggunakan lidi atau garpu. "
+        }
+    },{
+        "id": 10, 
+        "title" : "Tomplo atau Templek",
+        "image": "10.jpg",
+        "address" : "Eco 21 Toko, Jl. Mayjend Sutoyo No.21, Sawangan, Kedungwuluh, Purwokerto Barat, Banyumas, Central Java 53131",
+        "latlng": {
+            "lat": 109.7730447,
+            "lng": -7.3642833,
+        "content" : "Makanan yang satu ini tak kalah unik. Berasal dari bahan sisa pembuatan tahu atau biasa disebut ranjem. Ranjem ini dicampur dengan bumbu kemudian dibentuk bulat tipis dan di beri adonan terigu. Tomplo atau templek enak dimakan saat masih panas. "
+        }
+    },{
+        "id": 11, 
+        "title" : "Kluban",
+        "image": "11.jpg",
+        "address" : "Jl. Jend. Soedirman No.925, Sarwodadi, Berkoh, Kec. Purwokerto Tim., Kabupaten Banyumas, Jawa Tengah 53147",
+        "latlng": {
+            "lat": 109.1440551,
+            "lng": -7.552786,
+        "content" : "Makanan khas lainnya ini mirip dengan sayur urap didaerah lain. Sama - sama terbuat dari sayur yang direbus kemudian dicampur dengan parutan kelapa yang sudah dibumbui dan diberi sambal. Bedanya kalau urap, kelapanya dimasak terlebih dahulu. Sedangkan kluban langsung dicampur dengan sayur."
+        }
+    },{
+        "id": 12, 
+        "title" : "Gesret",
+        "image": "12.jpg",
+        "address" : "Jl. Kamandaka Jl. Gn. Sumbing No.Rt 11/03, Bobosan, Kec. Purwokerto Utara, Kabupaten Banyumas, Jawa Tengah 53127",
+        "latlng": {
+            "lat": 109.2328492,
+            "lng": -7.4108769,
+        "content" : "Olahan makanan yang satu ini terbuat dari singkong. Proses pembuatannya sangat mudah, pertama singkong yang telah dibersihkan kemudian diparut dengan parutan khusus sehingga membentuk ukuran yang panjang - panjang seperti kwetiaw. Setelah itu gesret dicampur dengan gula jawa dan bumbu lain dan dikukus. Terakhir, gesret disajikan dengan ditaburi parutan kelapa."
+        }
+    },{
+        "id": 13, 
+        "title" : "Jalabia",
+        "image": "13.jpg",
+        "address" : "Dusun I, Pejogol, Cilongok, Banyumas, Central Java 53162",
+        "latlng": {
+            "lat": 109.1652369,
+            "lng": -7.467686,
+        "content" : "Jalabia terbuat dari singkong yang dibentuk seperti donat. Caranya, singkong diparut, lalu dibentuk seperti donat dan digoreng hingga mengembang. Makanan ini sangat cocok disantap saat sedang bersantai."
+        }
+    },{
+        "id": 14, 
+        "title" : "Intil",
+        "image": "14.jpg",
+        "address" : "Jalan Bank, Pesayangan, Kedungwuluh, Purwokerto Bar., Kabupaten Banyumas, Jawa Tengah 53131",
+        "latlng": {
+            "lat": 109.2345827,
+            "lng": -7.4246596,
+        "content" : "Sama seperti jalabia, intil juga terbuat dari singkong. Hanya saja intil menggunakan singkong yang lebih halus. Kemudian, hasil parutan singkong diperas dan dicampur dengan gula jawa serta bumbu - bumbu lain. Setelah itu akan dikukus hingga matang. Intil dapat digunakan sebagai makanan pokok pengganti nasi, meski rasanya manis. "
+        }
+    },{
+        "id": 15, 
+        "title" : "Kepok",
+        "image": "15.jpg",
+        "address" : "Siti Khotimah, Jl. Kauman Baru, Dusun II Sokaraja Lo, Sokaraja Lor, Rt5 Rw4, Kabupaten Banyumas, Jawa Tengah 53181",
+        "latlng": {
+            "lat": 109.2903798,
+            "lng": -7.4248543,
+        "content" : "Kepok adalah makanan khas Banyumas dan bahan bakunya terbuat dari beras ketan. Proses membuatnya cukup mudah, seperti halnya memasak nasi. Lalu ketan dibentuk dengan menggunakan mangkuk, setelah itu ditaburi dengan parutan kelapa yang terlebih dahulu diberi garam. "
+        }
+    },{
+        "id": 16, 
+        "title" : "Tegean",
+        "image": "16.jpg",
+        "address" : "Jalan Bank, Pesayangan, Kedungwuluh, Purwokerto Bar., Kabupaten Banyumas, Jawa Tengah 53131",
+        "latlng": {
+            "lat": 109.2559428,
+            "lng": -7.418702,
+        "content" : "Tegean merupakan sayur bening khas Banyumas. Isinya terdiri dari berbagai macam sayuran yang diracik menggunakan bumbu khusus, sehingga sayuran ini terasa enak. Terkadang sayur ini juga diberi irisan daging sapi ataupun ayam."
+        }
+    },{
+        "id": 17, 
+        "title" : "Cenil",
+        "image": "17.jpg",
+        "address" : "Dusun IV, Toyareka, Kemangkon, Purbalingga Regency, Central Java 53381",
+        "latlng": {
+            "lat": 109.8028264,
+            "lng": -7.5958528,
+        "content" : "Cenil merupakan makanan ringan yang terbuat dari singkong dan tepung kanji yang diberi taburan kelapa. Biasanya cenil dibuat dengan campuran pewarna makanan sehingga sajiannya berbagai warna, hingga menarik mata. "
+        }
+    },{
+        "id": 18, 
+        "title" : "Ondol atau combro",
+        "image": "18.jpg",
+        "address" : "Jalan Bank, Pesayangan, Kedungwuluh, Purwokerto Bar., Kabupaten Banyumas, Jawa Tengah 53131",
+        "latlng": {
+            "lat": 109.2264489,
+            "lng": -7.4204685,
+        "content" : "Olahan berbahan dasar singkong yang diparut halus dan diperas kandungan airnya. Setelah itu diberi bumbu khusus lalu dibentuk menjadi bulat. Terakhir adonan tadi digoreng dengan menggunakan minyak panas hingga berwarna kecoklatan. "
+        }
+    },{
+        "id": 19, 
+        "title" : "Kampel atau kampelan",
+        "image": "19.jpg",
+        "address" : "Jl. Raya Dawuhanwetan, Dusun III, Dawuhan Wetan, Kec. Kedungbanteng, Kabupaten Banyumas, Jawa Tengah 53152",
+        "latlng": {
+            "lat": 109.7596742,
+            "lng": -7.6686406,
+        "content" : "Kampel dalam bahasa Banyumasan berarti peluk. Kampelan artinya pelukan. Maksutnya, makanan ini dibuat dari pelukan antara ketupat dengan jenis makanan lainnya, seperti tempe, tahu, dan dage. Setelah disatukan, bahan tersebut kemudian disatukan dengan adonan tepung terigu dan digoreng hingga matang. "
+        }
+    },{
+        "id": 20, 
+        "title" : "Tempe bongkrek",
+        "image": "20.jpg",
+        "address" : "Mlaran, RT.2/RW.5, Mlaran, Giyono, Jumo, Kabupaten Temanggung, Jawa Tengah 56256",
+        "latlng": {
+            "lat": 110.3675639,
+            "lng": -7.4034283,
+        "content" : "Makanan ini adalah salah satu makanan yang hampir punah, karena dulunya pernah merenggut nyawa puluhan orang Banyumas. Maka dari itu, pemerintah Banyumas berencana untuk memusnahkan tempe bongkrek yang merupakan makanan khas orang Banyumas pelosok. Tempe ini terbuat dari ampas kelapa yang difermentasikan."
+        }
+    },{
+        "id": 21, 
+        "title" : "Dage",
+        "image": "21.jpg",
+        "address" : "Gg. Sawi, Kober, Purwokerto Bar., Kabupaten Banyumas, Jawa Tengah 53134",
+        "latlng": {
+            "lat": 109.8246925,
+            "lng": -7.6187534,
+        "content" : "Dage merupakan makanan varian tempe dengan campuran bahan ampas kelapa yang digumpalkan dan dijamurkan. Dage biasanya dimasak menjadi oseng dengan campuran sayur kecambah serta lombok merah dan hijau. Dage goreng biasanya dijual bersama dengan mendoan."
+        }
+    },{
+        "id": 22, 
+        "title" : "Lupis",
+        "image": "22.jpg",
+        "address" : "Kruwed, Selokerto, Sempor, Kebumen Regency, Central Java 54421",
+        "latlng": {
+            "lat": 109.7982176,
+            "lng": -7.6613436,
+        "content" : "Jajanan pasar yang satu ini terbuat dari beras ketan yang dimaskan dengan dibungkus daun pisang. Rasanya yang kenyal gurih dan manis dari gula jawa ini dapat mengenyangkan perut jika dimakan dipagi hari. "
+        }
+    },{
+        "id": 23, 
+        "title" : "Ciwel",
+        "image": "23.jpg",
+        "address" : "Desa Petir ,Gerumbul Kedungenge, RT.001/RW.004, Dusun II, Petir, Kec. Kalibagor, Kabupaten Banyumas, Jawa Tengah 53191",
+        "latlng": {
+            "lat": 109.9809482,
+            "lng": -7.1246872,
+        "content" : "Ciwel merupakan jajanan pasar khas Banyumas yang berwarna hitam kecoklatan dan terasa alot. Ciwel terbuat dari tepung singkong yang direndam dalam cairan rendaman jerami padi, sehingga bersifat basa. Biasanya ciwel dijual bersama dengan cenil dan lupis yang diberi cairan gula jawa. "
+        }
+    },{
+        "id": 24, 
+        "title" : "Badeg",
+        "image": "24.jpg",
+        "address" : "Jl. Kedondong-Ledug, Dusun II Kedondong, Kedondong, Kec. Sokaraja, Kabupaten Banyumas, Jawa Tengah 53181",
+        "latlng": {
+            "lat": 109.3161639,
+            "lng": -7.5548403,
+        "content" : "Badeg merupakan minuman yang berasal dari sari bunga kelapa atau dikenal sebagai bahan gula merah dan gula jawa yang tidak direbus. Biasanya badeg perlu difermentasikan selama 1 sampai 2 hari agar memiliki aroma dan rasa yang enak. Jika terlalu lama difermentasikan badeng bisa memabukkan. "
+        }
+    },{
+        "id": 25, 
+        "title" : "Lembutan",
+        "image": "25.jpg",
+        "address" : "Dusun I, Rempoah, Baturaden, Banyumas, Central Java",
+        "latlng": {
+            "lat": 109.1712083,
+            "lng": -7.4062478,
+        "content" : "Kuliner Banyumas ini dibuat dari ikan lembutan. Lembutan merupakan ikan tawar berukuran kecil yang diambil dari sungai Serayu, Logawa, dan sungai - sungai kecil lainnya di daerah Banyumas. Menu ini dapat ditemukan diwarung makan ataupun restoran modern di daerah Purwokerto. Salah satunya, yaitu warung Gurdil yang mempunyai menu andalan ikan lembutan goreng. Warung ini terletak di jalan raya Sidabowa. "
+        }
+    },{
+        "id": 26, 
+        "title" : "Buntil",
+        "image": "26.jpg",
+        "address" : "Jalan Bank, Pesayangan, Kedungwuluh, Purwokerto Bar., Kabupaten Banyumas, Jawa Tengah 53131",
+        "latlng": {
+            "lat": 109.2345827,
+            "lng": -7.4246596,
+        "content" : "Buntil adalah salah satu jenis lauk pauk atau kudapan khas Banyumas yang terbuat dari bahan daun pepaya, daun singkong, ataupun daun talas (daun lumbu). Makanan ini memerlukan proses pembuatan yang sangat hati - hati karena daun talas dapat menimbulkan rasa gatal. Resep makanan ini diantaranya seperti parutan kelapa muda yang telah diberi bumbu semacam bumbu kluban, kemudian digulung dan diikat dengan menggunakan tali dari bambu. Untuk menambah selera dapat ditambahkan teri, bawang, cabai, lengkuas, asam, garam, ebi, atau udang rebon ke dalam bumbu ampas kelapa muda. Selanjutnya, kukus hingga matang. Penyajiannya, dengan disiram dengan kuah santan bumbu pedas dengan cabe rawit yang masih utuh."
+        }
+    },{
+        "id": 27, 
+        "title" : "Gembus",
+        "image": "27.jpg",
+        "address" : "Jalan Bank, Pesayangan, Kedungwuluh, Purwokerto Bar., Kabupaten Banyumas, Jawa Tengah 53131",
+        "latlng": {
+            "lat": 109.2345827,
+            "lng": -7.4246596,
+        "content" : "Makanan yang satu ini terbuat dari bahan singkong yang diolah secara khusus dan dibentuk menyerupai gelang berstektur kering. Gembus juga dikenal dengan nama donat jawa oleh warga Banyumas. Makanan ini lebih mirip dengan geblek yang berasal dari Purworejo. Gembus enak disajikan dalam keadaan hangat dengan dicocol saus sambal atau disajikan bersama dengan pecel."
+        }
+    },{
+        "id": 28, 
+        "title" : "Cau",
+        "image": "28.jpg",
+        "address" : "Jl. Vihara, Purwokerto Wetan, Kec. Purwokerto Tim., Kabupaten Banyumas, Jawa Tengah 53111",
+        "latlng": {
+            "lat": 109.1652369,
+            "lng": -7.467686,
+        "content" : "Cau merupakan cincau yang terbuat dari daun cau. Cau mirip dengan cincau namun warna dan tekstur sedikit berbeda. Cau ini enak dan juga bermanfaat bagi tubu. Agar lebih nikmat, biasanya cau disajikan sebagai campuran dari es."
+        }
+    },{
+        "id": 29, 
+        "title" : "Kerupuk ampas tahu",
+        "image": "29.jpg",
+        "address": "Eco 21 Toko, Jl. Mayjend Sutoyo No.21, Sawangan, Kedungwuluh, Purwokerto Barat, Banyumas, Central Java 53131",
+        "latlng": {
+            "lat": 109.7730447,
+            "lng": -7.3642833,
+        "content" : "Seperti namanya, kerupuk ini terbuat dari ampas tahu yang dikenal dengan nama ranjem. Diolah dengan cara dikukus, diiris, dan terakhir dijemur. Rasanya dominan gurih."
+        }
+    },{
+        "id": 30, 
+        "title" : "Es Duren",
+        "image": "30.jpg",
+        "address" : "Jl. Komisaris Bambang Suprapto No.71, Cigrobak, Purwokerto Lor, Kec. Purwokerto Tim., Kabupaten Banyumas, Jawa Tengah 53114",
+        "latlng": {
+            "lat": 105.467128,
+            "lng": -3.5894302,
+        "content" : "Minuman ini cocok dikonsumsi di siang hari saat cuaca sedang terik. Tekstur durian yang legit dan empuk dicampur dengan santan dan susu coklat menjadi olahan minuman khas yang enak dan pas."
+        }
+    },{
+        "id": 31, 
+        "title" : "Penjorangan",
+        "image": "31.jpg",
+        "address" : "Jalan Bank, Pesayangan, Kedungwuluh, Purwokerto Bar., Kabupaten Banyumas, Jawa Tengah 53131",
+        "latlng": {
+            "lat": 109.2345827,
+            "lng": -7.4246596,
+        "content" : "Penjorangan merupakan makanan khas yang terbuat dari ketupat yang digoreng. Makanan ini biasanya dibentuk menyerupai bantal. Setelah dipotong, irisan ketupat dilumuri adonan tepung dan bumbu lalu digoreng hingga matang. "
+        }
+    },{
+        "id": 32, 
+        "title" : "Keong kuah pedas",
+        "image": "32.jpg",
+        "address" : "Jalan Bank, Pesayangan, Kedungwuluh, Purwokerto Bar., Kabupaten Banyumas, Jawa Tengah 53131",
+        "latlng": {
+            "lat": 109.2345827,
+            "lng": -7.4246596,
+        "content" : "Makanan ini aman jika dimakan, merupakan salah saru maknaan khas yang menjadi menu andalan di warung bu Lan yang terletak di kompleks Kauman Lama dekat dengan pasar Wage Purwokerto. Makanan ini juga kaya akan protein dan lemak yang sangat baik untuk tubuh."
+        }
+    },{
+        "id": 33, 
+        "title" : "Tahu Gecot",
+        "image": "33.jpg",
+        "address" : "Bojong, Tanjung, South Purwokerto, Banyumas, Central Java 53144",
+        "latlng": {
+            "lat": 109.2686295,
+            "lng": -7.4249118,
+        "content" : "Tahu gecot terbuat dari campuran bumbu seperti kacang goreng, bawang putih, bawang goreng, garam, cabe rawit, kencur, air asam jawa, dan gula jawa. Satu piring tahu gecot berisi kupat yang dipotong - potong, rajangan sayur kol, tauge, tahu goreng, dan disiram dengan bumbu yang sudah diuleg, dan diberi taburan bawang goreng. Hidangan ini hampir mirip dengan kupat tahu."
+        }
+    },{
+        "id": 34, 
+        "title" : "Dawet ayu",
+        "image": "34.jpg",
+        "address" : "Jl. Masjid No.63, Purwokerto, Sokanegara, Kec. Purwokerto Tim., Kabupaten Banyumas, Jawa Tengah 53115",
+        "latlng": {
+            "lat": 109.8157201,
+            "lng": -7.5376445,
+        "content" : "Minuman ini sudah sangat terkenal dan banyak disukai orang saat berkunjung ke daerah Banyumas dan sekitarnya. Rasanya manis dan segar sangat cocok diminum saat siang hari. Satu gelas dawet ayu ini berisikan cendol yang dicampur dengan kuah santan dan gula jawa cair."
+        }
+    },{
+        "id": 35, 
+        "title" : "Kenyol",
+        "image": "35.jpg",
+        "address" : "Jl. Masjid No.63, Purwokerto, Sokanegara, Kec. Purwokerto Tim., Kabupaten Banyumas, Jawa Tengah 53115",
+        "latlng": {
+            "lat": 109.8157201,
+            "lng": -7.5376445,
+        "content" : "Makanan ringan yang satu ini dibuat dari campuran tepung ketan dan kanji yang dihidangkan dengan parutan kelapa dan gula merah cair. Rasanya yang lezat cocok disajikan dengan secangkir teh atau kopi saat sedang bersantai."
+        }
+    }
+]
+}
