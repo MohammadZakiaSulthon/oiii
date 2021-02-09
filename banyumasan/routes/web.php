@@ -24,3 +24,8 @@ Route::get('/kuliner', function () {
     $data = json_decode($jsonString, true);
     return view('pages.kuliner')->with('foods', $data["banyumasan"]);
 });
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
+Route::get('admin/home', 'HomeController@adminHome')->name('admin.home')->middleware('is_admin');

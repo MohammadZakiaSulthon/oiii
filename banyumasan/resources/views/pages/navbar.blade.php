@@ -15,6 +15,15 @@
                 <li><a href="/">Home</a></li>
                 <li><a href="{{route('about')}}">About Us</a></li>
                 <li><a href="/kuliner">Kuliner</a></li>
+                @if (Auth::guest())
+                <li><a href="/login">Login</a></li>
+                @else
+                <li><a  href="{{ url('/logout') }}"  onclick="event.preventDefault();
+                                                     document.getElementById('logout-form').submit();">Logout</a></li>
+                <form id="logout-form" action="{{ route('logout') }}" method="POST" class="d-none">
+                        @csrf
+                    </form>
+                @endif
               </ul>
             </div>
           </div>
